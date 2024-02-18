@@ -38,6 +38,7 @@
     "sdk"
   ],
   "dependencies": {
+    "@line/bot-sdk": "^8.4.0",
     "@types/body-parser": "^1.19.2",
     "@types/node": "^20.0.0",
     "axios": "^1.0.0",
